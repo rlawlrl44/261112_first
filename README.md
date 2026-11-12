@@ -70,12 +70,15 @@
 ~~취소선~~   <mark>형광펜태그</mark>  
 '~~취소선~~'  
 ' ' - 인라인 코드
-``` ```
+``` 
 코드박스
 12345678
+```
+
 ```python
 print("Hello World")
 ```
+
 ```mermaid
 graph LR;
     A --> B & C & D
